@@ -1,9 +1,9 @@
 # Hi, I'm Karim 👋
 
-Big Data graduate (ISIMS, Sfax — 2026) with hands-on experience in full-stack development, data pipelines, and backend systems. Currently looking for developer opportunities in Sfax, Tunisia, while continuing engineering studies part-time.
+Big Data graduate (ISIMS, Sfax — 2026) with hands-on experience in full-stack development, data pipelines, and backend systems. Currently looking for developer opportunities in Sfax, Tunisia, while continuing engineering studies part-time. ![Profile Views](https://komarev.com/ghpvc/?username=karim44266&color=blue)
 
 ## 🛠️ Tech Stack
-![Profile Views](https://komarev.com/ghpvc/?username=karim44266&color=blue)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)

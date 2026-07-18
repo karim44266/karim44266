@@ -3,7 +3,7 @@
 <h3><code>karim@github ~ $ whoami</code></h3>
 <table>
   <tr>
-    <td valign="top"><img src="./profile-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./source-prepped.png"" width="370" /></td>
     <td valign="top"><img src="./info-card.svg" width="490" /></td>
   </tr>
 </table>

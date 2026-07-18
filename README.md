@@ -1,6 +1,23 @@
+<div align="center">
+
+<h3><code>karim@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>karim@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./profile-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
+
 # Hi, I'm Karim 👋
 
-Big Data graduate (ISIMS, Sfax — 2026) with hands-on experience in full-stack development, data pipelines, and backend systems. Currently looking for developer opportunities in Sfax, Tunisia, while continuing engineering studies part-time. ![Profile Views](https://komarev.com/ghpvc/?username=karim44266&color=blue)
+Big Data graduate (ISIMS, Sfax — 2026) with hands-on experience in full-stack development, data pipelines, and backend systems. Currently looking for developer opportunities in Sfax, Tunisia, while continuing engineering studies part-time.
 
 ## 🛠️ Tech Stack
 
